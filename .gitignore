@@ -22,7 +22,6 @@ build/
 .pytest/
 *.pyc
 .coverage
-htmlcov/
 .vscode/
 .idea/
 *.swp
